@@ -49,7 +49,7 @@ Follow The Steps Below!
 > pkg install tesseract
 > pkg install git -y
 > git clone https://github.com/miqbal-22/wabotv3start
-> cd mybotv3
+> cd wabotv3start
 > bash install.sh
 ```
 

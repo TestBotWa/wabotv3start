@@ -1,10 +1,10 @@
 const help = (prefix) => {
 	return `
-「 *JINGAN BOT* 」
+「 *ITACHI BOT* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: Muhammad Iqbal
+  ❏ Creator: Rio Gans
   ❏ Version: 「  2.4.9  」
 ◪ *ABOUT*
   │

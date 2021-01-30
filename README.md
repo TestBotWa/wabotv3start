@@ -1,4 +1,4 @@
-### Halloo Ngentoters ~ Gua JINGAN BOT
+### Halloo Ngentoters ~ Gua ITACHI BOT
 
 Re-upload sama numpang ganti nama gabakal bikin lu jadi pro
 
@@ -48,7 +48,7 @@ Follow The Steps Below!
 > pkg install nodejs
 > pkg install tesseract
 > pkg install git -y
-> git clone https://github.com/miqbal-22/mybotv3
+> git clone https://github.com/miqbal-22/wabotv3start
 > cd mybotv3
 > bash install.sh
 ```

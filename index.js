@@ -85,7 +85,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:ITACHI\n' // full name
             + 'ORG:Rio_Gans;\n' // the organization of the contact
-            + 'TEL;type=CELL;typeB=VOICE;waid=6285745376798:+62 857-4537-6798\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;typeB=VOICE;waid=62895372698638:+62 895-3726-98638\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
